@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/StanislavSukhanov/test-task-dev-position/precache-manifest.c3ba736f969b1a425d8736ee1fe467fd.js"
+  "/test-task-dev-position/precache-manifest.92024a6534e8118a3400f96c9623cee2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/StanislavSukhanov/test-task-dev-position/index.html", {
+workbox.routing.registerNavigationRoute("/test-task-dev-position/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

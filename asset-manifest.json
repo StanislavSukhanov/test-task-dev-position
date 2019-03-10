@@ -1,14 +1,14 @@
 {
-  "main.css": "/StanislavSukhanov/test-task-dev-position/static/css/main.4efb2a62.chunk.css",
-  "main.js": "/StanislavSukhanov/test-task-dev-position/static/js/main.66e5f463.chunk.js",
-  "main.js.map": "/StanislavSukhanov/test-task-dev-position/static/js/main.66e5f463.chunk.js.map",
-  "runtime~main.js": "/StanislavSukhanov/test-task-dev-position/static/js/runtime~main.217d5580.js",
-  "runtime~main.js.map": "/StanislavSukhanov/test-task-dev-position/static/js/runtime~main.217d5580.js.map",
-  "static/js/2.b19c2b74.chunk.js": "/StanislavSukhanov/test-task-dev-position/static/js/2.b19c2b74.chunk.js",
-  "static/js/2.b19c2b74.chunk.js.map": "/StanislavSukhanov/test-task-dev-position/static/js/2.b19c2b74.chunk.js.map",
-  "index.html": "/StanislavSukhanov/test-task-dev-position/index.html",
-  "precache-manifest.c3ba736f969b1a425d8736ee1fe467fd.js": "/StanislavSukhanov/test-task-dev-position/precache-manifest.c3ba736f969b1a425d8736ee1fe467fd.js",
-  "service-worker.js": "/StanislavSukhanov/test-task-dev-position/service-worker.js",
-  "static/css/main.4efb2a62.chunk.css.map": "/StanislavSukhanov/test-task-dev-position/static/css/main.4efb2a62.chunk.css.map",
-  "static/media/logo.svg": "/StanislavSukhanov/test-task-dev-position/static/media/logo.5d5d9eef.svg"
+  "main.css": "/test-task-dev-position/static/css/main.4efb2a62.chunk.css",
+  "main.js": "/test-task-dev-position/static/js/main.5073055d.chunk.js",
+  "main.js.map": "/test-task-dev-position/static/js/main.5073055d.chunk.js.map",
+  "runtime~main.js": "/test-task-dev-position/static/js/runtime~main.80f7abba.js",
+  "runtime~main.js.map": "/test-task-dev-position/static/js/runtime~main.80f7abba.js.map",
+  "static/js/2.b19c2b74.chunk.js": "/test-task-dev-position/static/js/2.b19c2b74.chunk.js",
+  "static/js/2.b19c2b74.chunk.js.map": "/test-task-dev-position/static/js/2.b19c2b74.chunk.js.map",
+  "index.html": "/test-task-dev-position/index.html",
+  "precache-manifest.92024a6534e8118a3400f96c9623cee2.js": "/test-task-dev-position/precache-manifest.92024a6534e8118a3400f96c9623cee2.js",
+  "service-worker.js": "/test-task-dev-position/service-worker.js",
+  "static/css/main.4efb2a62.chunk.css.map": "/test-task-dev-position/static/css/main.4efb2a62.chunk.css.map",
+  "static/media/logo.svg": "/test-task-dev-position/static/media/logo.5d5d9eef.svg"
 }
